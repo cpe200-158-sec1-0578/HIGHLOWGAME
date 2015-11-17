@@ -1,0 +1,6 @@
+c:\users\bosesoundza\documents\visual studio 2015\Projects\HighLowCardGame\HighLowCardGame\bin\Debug\HighLowCardGame.exe.config
+c:\users\bosesoundza\documents\visual studio 2015\Projects\HighLowCardGame\HighLowCardGame\obj\Debug\HighLowCardGame.csprojResolveAssemblyReference.cache
+c:\users\bosesoundza\documents\visual studio 2015\Projects\HighLowCardGame\HighLowCardGame\bin\Debug\HighLowCardGame.exe
+c:\users\bosesoundza\documents\visual studio 2015\Projects\HighLowCardGame\HighLowCardGame\bin\Debug\HighLowCardGame.pdb
+c:\users\bosesoundza\documents\visual studio 2015\Projects\HighLowCardGame\HighLowCardGame\obj\Debug\HighLowCardGame.exe
+c:\users\bosesoundza\documents\visual studio 2015\Projects\HighLowCardGame\HighLowCardGame\obj\Debug\HighLowCardGame.pdb
